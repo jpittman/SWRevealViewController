@@ -2,6 +2,8 @@
 
 A UIViewController subclass for revealing a rear (left and/or right) view controller behind a front controller, inspired by the Facebook app, done right!
 
+**ATTENTION**: This is a fork to cherry pick pull requests from the parent project since it appears to be abandoned.
+
 
 ## NOTE ( Version 2.3)
 
